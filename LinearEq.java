@@ -6,10 +6,12 @@ double c = Double.parseDouble(args[2]);
 double x = (c-b)/a;
 
 
-System.out.println(a+" * x + "+b+" = "+c);
-System.out.println(" x ="+x);
+System.out.println( a + " * x + " + b + " = "+c);
+System.out.println("x = " + x );
 
 
 
 
 }}
+
+
