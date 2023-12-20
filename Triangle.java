@@ -6,7 +6,6 @@ int c = Integer.parseInt(args[2]);
 boolean isTriangle= ((a+b)>c && (b+c)>a && (c+a)>b);
 
 
-System.out.println("% java Triangle " +a+" "+b+" "+c);
 System.out.println(a+ ", " +b+ ", " + c + ": " +isTriangle);
 
 
